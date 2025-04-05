@@ -140,11 +140,6 @@ upd72020x-fw
 wd719x-firmware
 wget
 
-###xorg
-xorg-server
-xorg-apps
-xorg-xinit
-
 ###video
 xf86-input-elographics
 #xf86-input-evdev
@@ -249,30 +244,11 @@ poppler-qt5
 #########################################################################
 
 ###applications
-#chromium
-#darktable
-#deadbeef
-#dmenu
-#feh
 firefox
-#galculator
-#geany
 gimp
-#gsimplecal
-#guvcview
-#imagemagick
-#inkscape
-#lollypop
+inkscape
 lshw
-#meld
-#micro
-#nitrogen
-#numlockx
-#qbittorrent
-#scrot
-#simplescreenrecorder
-#variety
-#vlc
+vlc
 
 ###conky
 #jq
@@ -441,6 +417,8 @@ arcolinux-sddm-simplicity-git
 ####                           DESKTOP MANAGERS
 ###########################################################################
 
+wayland
+xwayland
 plasma
 
 ###########################################################################
@@ -496,32 +474,20 @@ feh
 ffmpegthumbs
 gocryptfs
 gwenview
+konsole
 kate
 kde-gtk-config
 kde-system-meta
-kdeconnect
-kdenetwork-filesharing
 kinit
 mkinitcpio-firmware
 most
-ocs-url
 okular
-packagekit-qt6
 partitionmanager
 ripgrep
 spectacle
 surfn-plasma-dark-icons-git
-ttf-ms-fonts
 ttf-font-awesome
 ttf-jetbrains-mono-nerd
 variety
 vimix-cursors
 yad
-yakuake
-
-###########################################################################
-####                               CHAOTICS AUR
-###########################################################################
-
-#flat-remix
-#colloid-cursors-git
