@@ -1,11 +1,11 @@
 #!/usr/bin/env bash
 # shellcheck disable=SC2034
 
-iso_name="arcoplasma"
-iso_label="arcoplasma-v25.05.01"
+iso_name="krypton"
+iso_label="krypton-v25.06-alpha"
 iso_publisher="KryptonLinux <https://krypton-linux.com/>"
 iso_application="Krypton Linux Live CD"
-iso_version="v25.05-alpha"
+iso_version="v25.06-alpha"
 install_dir="arch"
 buildmodes=('iso')
 bootmodes=('bios.syslinux.mbr' 'bios.syslinux.eltorito'
