@@ -316,7 +316,6 @@ arcolinux-bin-git
 arcolinux-bootloader-grub-git
 arcolinux-fonts-git
 arcolinux-grub-theme-vimix-git
-arcolinux-gtk-surfn-plasma-dark-git
 arcolinux-keyring
 arcolinux-mirrorlist-git
 arcolinux-root-git
@@ -334,11 +333,6 @@ arcolinux-zsh-git
 arco-calamares-wayland
 arcoplasma-calamares-config
 arcolinux-system-installation-git
-#arcolinux-system-installation-dev-git
-arcolinux-welcome-app-git
-#arcolinuxd-welcome-app-git
-#arcolinux-welcome-app-dev-git
-#arcolinux-welcome-app-deepin-git
 hwinfo
 
 adobe-source-han-sans-jp-fonts
@@ -414,6 +408,7 @@ ffmpegthumbs
 gocryptfs
 gwenview
 konsole
+kryptinfo
 kate
 kde-gtk-config
 kde-system-meta
