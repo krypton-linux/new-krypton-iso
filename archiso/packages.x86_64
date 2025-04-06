@@ -132,7 +132,6 @@ xl2tpd
 aic94xx-firmware
 dialog
 dnsutils
-#libadwaita
 linux-headers
 logrotate
 ntp
@@ -142,34 +141,15 @@ wget
 
 ###video
 xf86-input-elographics
-#xf86-input-evdev
 xf86-input-libinput
-#xf86-input-vmmouse
-#xf86-input-void
-#xf86-video-amdgpu
-#xf86-video-ati
-#xf86-video-fbdev
-#xf86-video-intel
-#xf86-video-nouveau
-#xf86-video-openchrome
-#xf86-video-vesa
 xf86-video-vmware
 mesa
-
-###hardware video support
-nvidia-dkms
-nvidia-utils
-nvidia-settings
-#mesa-utils
 
 ###base-devel
 base-devel
 
 ###virtual box or vmware
 virtualbox-guest-utils
-
-###packages for dual boot
-os-prober
 
 ###audio
 alsa-firmware
@@ -206,7 +186,6 @@ networkmanager-openvpn
 networkmanager-pptp
 networkmanager-vpnc
 networkmanager-qt5
-rtl8821cu-morrownr-dkms-git
 
 ###file management
 gvfs
@@ -229,15 +208,6 @@ ghostscript
 gsfonts
 gutenprint
 system-config-printer
-
-###tumbler
-tumbler
-ffmpegthumbnailer
-freetype2
-libgsf
-libopenraw
-poppler-glib
-poppler-qt5
 
 #########################################################################
 #                  SOFTWARE FROM ARCH LINUX REPOSITORIES
@@ -295,40 +265,20 @@ git
 gnome-disk-utility
 #gpick
 htop
-#hddtemp
-#htop
-#hunspell
-#hunspell-en_US
-#hyphen
-#hyphen-en
-#grsync
-#intltool
-#jsoncpp
 libmtp
 laptop-detect
 lsb-release
-plocate
-#nomacs-qt6-git
-p7zip
 pkgfile
-#plank
-#playerctl
 polkit
 powertop
 tlp
 tlp-rdw
 ripgrep
-#tree
-#ufw
-#gufw
-unace
+tree
 unrar
 unzip
-#vnstat
-#xapp
-#xdg-desktop-portal-gtk
-#yt-dlp
-#zenity
+xdg-desktop-portal-gtk
+yt-dlp
 zsh
 zsh-completions
 zsh-syntax-highlighting
@@ -342,7 +292,6 @@ vivaldi
 vivaldi-ffmpeg-codecs
 
 ###cursors
-bibata-cursor-theme-bin
 breeze
 
 ###tools
@@ -377,8 +326,6 @@ arcolinux-zsh-git
 ####                 ARCO ISO SPECIFIC
 ###########################################################################
 
-linux-cachyos
-linux-cachyos-headers
 
 ###########################################################################
 ####                               CALAMARES
@@ -445,17 +392,9 @@ sofirem-git
 ####                 ARCOLINUX CONFIGS
 ###########################################################################
 
-#alacritty-themes
-#arcolinux-arc-dawn-git
 arcolinux-btop-git
-#arcolinux-config-all-desktops-git
 arcolinux-dconf-all-desktops-git
-#arcolinux-fish-git
-#arcolinux-meta-log
 arcolinux-system-config-git
-#arcolinux-system-config-dev-git
-#arcolinuxd-system-config-git
-#arcolinuxd-system-config-dev-git - OUT!
 arcolinux-wallpapers-git
 
 ###########################################################################
@@ -485,9 +424,7 @@ okular
 partitionmanager
 ripgrep
 spectacle
-surfn-plasma-dark-icons-git
 ttf-font-awesome
 ttf-jetbrains-mono-nerd
 variety
-vimix-cursors
 yad
