@@ -363,35 +363,6 @@ xwayland
 plasma
 
 ###########################################################################
-####                            ARCONET CONFIGS
-###########################################################################
-
-arconet-variety-config
-arconet-wallpapers
-#arcopro-wallpapers
-arconet-xfce
-
-###########################################################################
-####                 ARCOLINUX APPS
-###########################################################################
-
-archlinux-kernel-manager
-archlinux-logout-git
-archlinux-tweak-tool-git
-arcolinux-app-glade-git
-arcolinux-desktop-trasher-git
-sofirem-git
-
-###########################################################################
-####                 ARCOLINUX CONFIGS
-###########################################################################
-
-arcolinux-btop-git
-arcolinux-dconf-all-desktops-git
-arcolinux-system-config-git
-arcolinux-wallpapers-git
-
-###########################################################################
 ####                       APPS
 ###########################################################################
 
