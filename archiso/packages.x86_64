@@ -330,10 +330,8 @@ arcolinux-zsh-git
 ####                               CALAMARES
 ###########################################################################
 
-arco-calamares-wayland
-arcoplasma-calamares-config
-arcolinux-system-installation-git
-hwinfo
+calamares
+archiso-calamares-config
 
 adobe-source-han-sans-jp-fonts
 adobe-source-han-sans-kr-fonts
